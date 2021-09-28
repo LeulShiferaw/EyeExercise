@@ -4,7 +4,7 @@
 
 ## Description
 
-One of our projects for the MIT Full Stack Developement boot camp. This program makes to eyeballs follow the cursor around.
+One of our projects for the MIT Full Stack Developement boot camp. This program makes two eyeballs follow the cursor around automatically.
 
 ## How to run
 

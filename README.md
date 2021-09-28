@@ -6,6 +6,10 @@
 
 One of our projects for the MIT Full Stack Developement boot camp. This program makes two eyeballs follow the cursor around automatically.
 
+## Future Improvements
+
+In the future we can get other sets of eyes to represent more than one person.
+
 ## How to run
 
 1. Clone the repo
